@@ -65,8 +65,8 @@ B. Part Two: Words and meaning of the actual text expanded in detail
                                 B.II.2.2.2.1.2.2.3. Endowment
                                     B.II.2.2.2.1.2.2.3.1. Joint explanation of the qualities of cause and fruit
                                     B.II.2.2.2.1.2.2.3.2. Particular explanation of the individual essence of each
-                                    B.II.2.2.2.1.2.2.3.2.1. Endowment in terms of the cause
-                                    B.II.2.2.2.1.2.2.3.2.2. Endowment in terms of the fruit
+                                        B.II.2.2.2.1.2.2.3.2.1. Endowment in terms of the cause
+                                        B.II.2.2.2.1.2.2.3.2.2. Endowment in terms of the fruit
                                 B.II.2.2.2.1.2.2.4. Manifestation
                                     B.II.2.2.2.1.2.2.4.1. Short explanation of the reason
                                     B.II.2.2.2.1.2.2.4.2. Detailed explanation of the reason
@@ -124,11 +124,11 @@ B. Part Two: Words and meaning of the actual text expanded in detail
                                         B.II.2.2.2.1.2.2.8.2.2. Detailed explanation of their essential meaning
                                             B.II.2.2.2.1.2.2.8.2.2.1. Detailed explanation of the fact [that a buddha and nirvana] are no different
                                             B.II.2.2.2.1.2.2.8.2.2.2. Detailed explanation of the meaning of liberation
-                                            B.II.2.2.2.1.2.2.8.2.3. Detailed explanation of these by means of examples
-                                                B.II.2.2.2.1.2.2.8.2.3.1. The fictitious example of the painters
-                                                    B.II.2.2.2.1.2.2.8.2.3.1.1. Example
-                                                    B.II.2.2.2.1.2.2.8.2.3.1.2. Meaning
-                                                B.II.2.2.2.1.2.2.8.2.3.2. Explanation by means of the non-fictitious example of the sun
+                                        B.II.2.2.2.1.2.2.8.2.3. Detailed explanation of these by means of examples
+                                            B.II.2.2.2.1.2.2.8.2.3.1. The fictitious example of the painters
+                                                B.II.2.2.2.1.2.2.8.2.3.1.1. Example
+                                                B.II.2.2.2.1.2.2.8.2.3.1.2. Meaning
+                                            B.II.2.2.2.1.2.2.8.2.3.2. Explanation by means of the non-fictitious example of the sun
                                                     B.II.2.2.2.1.2.2.8.2.3.2.1. Presentation of the corresponding qualities
                                                     B.II.2.2.2.1.2.2.8.2.3.2.2. Explanation of buddhahood as being nirvana
                             B.II.2.2.2.1.2.3. Summary of the meaning of the explanation
@@ -191,9 +191,9 @@ B. Part Two: Words and meaning of the actual text expanded in detail
                                 B.II.2.2.2.1.3.4.1. Short explanation of what is illustrated by the nine examples
                                 B.II.2.2.2.1.3.4.2. Individual classification of their meaning
                                 B.II.2.2.2.1.3.4.3. Detailed explanation of the essence of the different kinds
-                                B.II.2.2.2.1.3.4.3.1. Example and meaning of the dharmakaya
-                                    B.II.2.2.2.1.3.4.3.1.1. Explanation of the different aspects of the dharmakaya
-                                    B.II.2.2.2.1.3.4.3.1.2. Combination of these with their examples
+                                    B.II.2.2.2.1.3.4.3.1. Example and meaning of the dharmakaya
+                                        B.II.2.2.2.1.3.4.3.1.1. Explanation of the different aspects of the dharmakaya
+                                        B.II.2.2.2.1.3.4.3.1.2. Combination of these with their examples
                                 B.II.2.2.2.1.3.4.3.2. Example and meaning of suchness
                                 B.II.2.2.2.1.3.4.3.3. Example and meaning of the disposition
                                     B.II.2.2.2.1.3.4.3.3.1. Presentation of the two types of disposition by means of their examples
@@ -219,13 +219,13 @@ B. Part Two: Words and meaning of the actual text expanded in detail
                         B.II.2.2.2.2.1. Short explanation of the essence of the subject to be explained
                         B.II.2.2.2.2.2. Concise summary of the way of explanation
                         B.II.2.2.2.2.3. Detailed explanation by combining these
-                        B.II.2.2.2.2.3.1. Detailed explanation of essence and cause
-                            B.II.2.2.2.2.3.1.1. Concise explanation of the way purity is attained
-                            B.II.2.2.2.2.3.1.2. Detailed explanation of its meaning
-                                B.II.2.2.2.2.3.1.2.1. Essence
-                                B.II.2.2.2.2.3.1.2.2. The way it possesses qualities
-                                B.II.2.2.2.2.3.1.2.3. The meaning of the stains
-                                B.II.2.2.2.2.3.1.2.4. The cause by which one becomes free from these [veils]
+                            B.II.2.2.2.2.3.1. Detailed explanation of essence and cause
+                                B.II.2.2.2.2.3.1.1. Concise explanation of the way purity is attained
+                                B.II.2.2.2.2.3.1.2. Detailed explanation of its meaning
+                                    B.II.2.2.2.2.3.1.2.1. Essence
+                                    B.II.2.2.2.2.3.1.2.2. The way it possesses qualities
+                                    B.II.2.2.2.2.3.1.2.3. The meaning of the stains
+                                    B.II.2.2.2.2.3.1.2.4. The cause by which one becomes free from these [veils]
                         B.II.2.2.2.2.3.2. Detailed explanation of the fruit
                             B.II.2.2.2.2.3.2.1. Concise explanation of freedom from stains by means of examples
                                 B.II.2.2.2.2.3.2.1.1. The fruit of liberation from the veil of the mental poisons
@@ -274,11 +274,11 @@ B. Part Two: Words and meaning of the actual text expanded in detail
                                         B.II.2.2.2.2.3.5.2.2.2.2. The five properties taught in summarized form
                                         B.II.2.2.2.2.3.5.2.2.2.3. The way it appears due to conditions
                                     B.II.2.2.2.2.3.5.2.2.3. Presentation of the nirmanakaya
-                                    B.II.2.2.2.2.3.5.2.2.3.1. The way the twelve deeds of the supreme nirmanakaya are demonstrated
-                                    B.II.2.2.2.2.3.5.2.2.3.2. The way the disciples are gradually guided, this being the function of the [twelve deeds]
-                                    B.II.2.2.2.2.3.5.2.2.3.2.1. The way the ordinary beings are guided to enter the lesser vehicles
-                                    B.II.2.2.2.2.3.5.2.2.3.2.2. The way those following the lesser vehicles are ripened by means of the Mahayana
-                                    B.II.2.2.2.2.3.5.2.2.3.2.3. The way those following the Great Vehicle are joined with complete liberation
+                                        B.II.2.2.2.2.3.5.2.2.3.1. The way the twelve deeds of the supreme nirmanakaya are demonstrated
+                                        B.II.2.2.2.2.3.5.2.2.3.2. The way the disciples are gradually guided, this being the function of the [twelve deeds]
+                                            B.II.2.2.2.2.3.5.2.2.3.2.1. The way the ordinary beings are guided to enter the lesser vehicles
+                                            B.II.2.2.2.2.3.5.2.2.3.2.2. The way those following the lesser vehicles are ripened by means of the Mahayana
+                                            B.II.2.2.2.2.3.5.2.2.3.2.3. The way those following the Great Vehicle are joined with complete liberation
                                 B.II.2.2.2.2.3.5.2.3. Summary of their meaning
                                     B.II.2.2.2.2.3.5.2.3.1. Summary into three [kayas] with reference to reasons
                                     B.II.2.2.2.2.3.5.2.3.2. Summary into two [kayas] with reference to the way they are
@@ -330,8 +330,8 @@ B. Part Two: Words and meaning of the actual text expanded in detail
                                         B.II.2.2.2.3.2.4.2.1.3. Illustration of the unmixed features by means of examples
                                         B.II.2.2.2.3.2.4.2.1.4. Summary of the way they are indivisible
                                     B.II.2.2.2.3.2.4.2.2. Explanation of the fruit of maturation
-                                    B.II.2.2.2.3.2.4.2.2.1. The way the marks are based upon the two kayas
-                                    B.II.2.2.2.3.2.4.2.2.2. The way the two kayas are illustrated by the example of the moon
+                                        B.II.2.2.2.3.2.4.2.2.1. The way the marks are based upon the two kayas
+                                        B.II.2.2.2.3.2.4.2.2.2. The way the two kayas are illustrated by the example of the moon
                     B.II.2.2.2.4. Activity is the action [of realization]
                         B.II.2.2.2.4.1. Concise teaching
                             B.II.2.2.2.4.1.1. Concise teaching [of activity] being spontaneous
@@ -374,18 +374,18 @@ B. Part Two: Words and meaning of the actual text expanded in detail
                                     B.II.2.2.2.4.3.2.1.3. The way the mind is pervasive through knowledge and compassionate love
                                         B.II.2.2.2.4.3.2.1.3.1. Short presentation of the example of clouds
                                         B.II.2.2.2.4.3.2.1.3.2. Detailed explanation of the example
-                                        B.II.2.2.2.4.3.2.1.3.2.1. Presentation of the meaning and the example
-                                        B.II.2.2.2.4.3.2.1.3.2.2. Explanation of the meaning through corresponding properties
+                                            B.II.2.2.2.4.3.2.1.3.2.1. Presentation of the meaning and the example
+                                            B.II.2.2.2.4.3.2.1.3.2.2. Explanation of the meaning through corresponding properties
                                         B.II.2.2.2.4.3.2.1.3.3. The way there is change in terms of the vessel
                                         B.II.2.2.2.4.3.2.1.3.4. Effortless manifestation
-                                        B.II.2.2.2.4.3.2.1.3.4.1. Concise presentation
-                                        B.II.2.2.2.4.3.2.1.3.4.2. Detailed explanation
-                                        B.II.2.2.2.4.3.2.1.3.4.2.1. Combination of example and meaning in terms of corresponding properties
-                                        B.II.2.2.2.4.3.2.1.3.4.2.2. The way it is not discriminatory
+                                            B.II.2.2.2.4.3.2.1.3.4.1. Concise presentation
+                                            B.II.2.2.2.4.3.2.1.3.4.2. Detailed explanation
+                                                B.II.2.2.2.4.3.2.1.3.4.2.1. Combination of example and meaning in terms of corresponding properties
+                                                B.II.2.2.2.4.3.2.1.3.4.2.2. The way it is not discriminatory
                                         B.II.2.2.2.4.3.2.1.3.5. Connection with the property conducive to eliminating suffering
-                                        B.II.2.2.2.4.3.2.1.3.5.1. Depiction of suffering and its elimination
-                                        B.II.2.2.2.4.3.2.1.3.5.2. Realizing in terms of change
-                                        B.II.2.2.2.4.3.2.1.3.5.3. Seeing the way of the four truths
+                                            B.II.2.2.2.4.3.2.1.3.5.1. Depiction of suffering and its elimination
+                                            B.II.2.2.2.4.3.2.1.3.5.2. Realizing in terms of change
+                                            B.II.2.2.2.4.3.2.1.3.5.3. Seeing the way of the four truths
                                         B.II.2.2.2.4.3.2.1.4. Emitting illusory manifestations
                                             B.II.2.2.2.4.3.2.1.4.1. Short presentation of the example and its meaning
                                             B.II.2.2.2.4.3.2.1.4.2. Detailed explanation
@@ -411,13 +411,13 @@ B. Part Two: Words and meaning of the actual text expanded in detail
                                         B.II.2.2.2.4.3.2.1.9. The way compassion manifests
                                 B.II.2.2.2.4.3.2.2. Summary of the meaning of this chapter by expressing its purpose
                                     B.II.2.2.2.4.3.2.2.1. The different kinds of the examples’ purpose and meaning
-                                    B.II.2.2.2.4.3.2.2.1.1. The way the immediate purpose and the intrin- sic purpose is achieved
-                                    B.II.2.2.2.4.3.2.2.1.2. Presentation of a summary of the example and the meaning
-                                    B.II.2.2.2.4.3.2.2.1.3. Applying the examples in three ways
-                                    B.II.2.2.2.4.3.2.2.1.4. The meaning of the chapter is freedom from deliberate effort
+                                        B.II.2.2.2.4.3.2.2.1.1. The way the immediate purpose and the intrin- sic purpose is achieved
+                                        B.II.2.2.2.4.3.2.2.1.2. Presentation of a summary of the example and the meaning
+                                        B.II.2.2.2.4.3.2.2.1.3. Applying the examples in three ways
+                                        B.II.2.2.2.4.3.2.2.1.4. The meaning of the chapter is freedom from deliberate effort
                                     B.II.2.2.2.4.3.2.2.2. Specifically explaining the way it has been shown by examples
-                                    B.II.2.2.2.4.3.2.2.2.1. The different kinds of examples
-                                    B.II.2.2.2.4.3.2.2.2.2. Explanation in combination with their meaning
+                                        B.II.2.2.2.4.3.2.2.2.1. The different kinds of examples
+                                        B.II.2.2.2.4.3.2.2.2.2. Explanation in combination with their meaning
                                 B.II.2.2.2.4.3.2.3. Specific explanation through a very condensed summary
                                     B.II.2.2.2.4.3.2.3.1. The way there is appearance and yet freedom from birth and death
                                         B.II.2.2.2.4.3.2.3.1.1. The example of [dependence on] faculties
@@ -450,8 +450,8 @@ B. Part Two: Words and meaning of the actual text expanded in detail
                 B.II.3.2.5. One should not teach contradicting the Buddha’s words
                 B.II.3.2.6. Explanation of the fault of contradiction
                     B.II.3.2.6.1. Defining how the Dharma is abandoned
-                    B.II.3.2.6.1.1. Explanation of how it is abandoned due to the condition of one’s stream of being
-                    B.II.3.2.6.1.2. The ten direct causes for abandoning the Dharma
+                        B.II.3.2.6.1.1. Explanation of how it is abandoned due to the condition of one’s stream of being
+                        B.II.3.2.6.1.2. The ten direct causes for abandoning the Dharma
                     B.II.3.2.6.2. Defining how not to abandon the profound Dharma
                     B.II.3.2.6.3. Explanation that abandoning the Dharma is more grave than the immeasurably negative acts
             B.II.3.3. Dedication and summary of the meaning

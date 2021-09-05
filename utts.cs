@@ -104,7 +104,7 @@ B. Part Two: Words and meaning of the actual text expanded in detail
                                             B.II.2.2.2.1.2.2.7.2.2.2. Identification of the qualities of the heirs of the Victorious One who dwell on the ten bodhisattva levels
                                                 B.II.2.2.2.1.2.2.7.2.2.2.1. The qualities of a bodhisattva who has first given rise to bodhichitta
                                                 B.II.2.2.2.1.2.2.7.2.2.2.2. The qualities of a bodhisattva who has gained access to supreme conduct
-                                                B.II.2.2.2.1.2.2.7.2.2.2.3. The qualities of a bodhisattva who has at- tained the level of non-returning
+                                                B.II.2.2.2.1.2.2.7.2.2.2.3. The qualities of a bodhisattva who has attained the level of non-returning
                                                 B.II.2.2.2.1.2.2.7.2.2.2.4. The qualities of a bodhisattva who has reached the last birth
                                                 B.II.2.2.2.1.2.2.7.2.2.2.5. Explanation of the difference as far as the accomplishment of the two benefits is concerned
                                         B.II.2.2.2.1.2.2.7.2.3. Unchangingness in the utterly purified phase
@@ -159,7 +159,7 @@ B. Part Two: Words and meaning of the actual text expanded in detail
                                         B.II.2.2.2.1.3.2.2.5.1. Example
                                         B.II.2.2.2.1.3.2.2.5.2. Meaning
                                         B.II.2.2.2.1.3.2.2.5.3. Both combined
-                                    B.II.2.2.2.1.3.2.2.6. Example and meaning of the shoot and the fruit- skin
+                                    B.II.2.2.2.1.3.2.2.6. Example and meaning of the shoot and the fruitskin
                                         B.II.2.2.2.1.3.2.2.6.1. Example
                                         B.II.2.2.2.1.3.2.2.6.2. Meaning
                                         B.II.2.2.2.1.3.2.2.6.3. Both combined
@@ -342,7 +342,7 @@ B. Part Two: Words and meaning of the actual text expanded in detail
                                 B.II.2.2.2.4.2.1.2. Manifesting unmistakenly as to place and time
                             B.II.2.2.2.4.2.2. Explanation of the classified meaning of uninterruptedness
                                 B.II.2.2.2.4.2.2.1. Concise teaching enumerating names
-                                B.II.2.2.2.4.2.2.2. Detailed explanation of the different kinds of mean- ing
+                                B.II.2.2.2.4.2.2.2. Detailed explanation of the different kinds of meaning
                                 B.II.2.2.2.4.2.2.3. Illustration of these by means of examples
                                 B.II.2.2.2.4.2.2.4. Detailed explanation combining example and meaning
                                 B.II.2.2.2.4.2.2.5. Summary of the way it is uninterrupted
@@ -396,7 +396,7 @@ B. Part Two: Words and meaning of the actual text expanded in detail
                                             B.II.2.2.2.4.3.2.1.5.2. Explanation of its manifestation’s activity
                                             B.II.2.2.2.4.3.2.1.5.3. They way primordial wisdom radiates
                                             B.II.2.2.2.4.3.2.1.5.4. The way there is manifold manifestation
-                                            B.II.2.2.2.4.3.2.1.5.5. The gradual manifestation of primordial wis- dom
+                                            B.II.2.2.2.4.3.2.1.5.5. The gradual manifestation of primordial wisdom
                                                 B.II.2.2.2.4.3.2.1.5.5.1. Concise presentation
                                                 B.II.2.2.2.4.3.2.1.5.5.2. Detailed explanation
                                             B.II.2.2.2.4.3.2.1.5.6. The special excellence of its function
@@ -404,8 +404,8 @@ B. Part Two: Words and meaning of the actual text expanded in detail
                                                 B.II.2.2.2.4.3.2.1.5.6.2. Depiction of its specific function
                                         B.II.2.2.2.4.3.2.1.6. The secret aspect of mind
                                             B.II.2.2.2.4.3.2.1.6.1. The way manifold wishes are accomplished without ideation
-                                            B.II.2.2.2.4.3.2.1.6.2. The way there is continuous manifestation with- out deliberate effort
-                                            B.II.2.2.2.4.3.2.1.6.3. Presentation of similarity in terms of being dif- ficult to find
+                                            B.II.2.2.2.4.3.2.1.6.2. The way there is continuous manifestation without deliberate effort
+                                            B.II.2.2.2.4.3.2.1.6.3. Presentation of similarity in terms of being difficult to find
                                         B.II.2.2.2.4.3.2.1.7. The secret aspect of speech
                                         B.II.2.2.2.4.3.2.1.8. The secret aspect of body
                                         B.II.2.2.2.4.3.2.1.9. The way compassion manifests
